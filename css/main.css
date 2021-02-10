@@ -1,4 +1,6 @@
 header {
 	background: red;
-	height: 10vh;
+	height: 100vh;
 }
+body{margin: 0;
+padding: 0;}
